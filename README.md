@@ -1,2 +1,2 @@
-# fastai4
+# Bear Classifier
 Bear Classifier (fastai4)
